@@ -1,0 +1,17 @@
+ .card {
+    margin-top: 30px;
+    padding: 20px;
+ }
+
+.form-control {
+    margin: 13px 3px;
+}
+
+.btn-custom {
+    margin-top: 20px;
+    background-color: rgb(16, 191, 240);
+}
+
+.btn-custom2 {
+    margin-top: 20px;
+}
